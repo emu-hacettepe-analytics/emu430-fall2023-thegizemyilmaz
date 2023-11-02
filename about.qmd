@@ -34,3 +34,7 @@ sidebar: false
 -   Reading
 -   Volley
 -   Fitness
+
+# CV
+
+[my_cv](CV Gizem Yılmazb (3).pdf) 
